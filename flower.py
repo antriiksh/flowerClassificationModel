@@ -15,3 +15,6 @@ def hello_world():
 		image = file.read()
 		category,flower_name = get_flower_name(image_bytes=image)
 		return render_template('result.html',flower = flower_name, category = category)
+
+
+print("")
