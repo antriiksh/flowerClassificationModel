@@ -7,8 +7,7 @@ The webapp is built using flask.
 ## Dataset used :     
 102 Category Flower Dataset  
 
-## Complete flow :    
-![model](/static/model.gif)   
+
 
 
 ## Run on windows - 
